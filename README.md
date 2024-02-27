@@ -27,7 +27,7 @@ pip3 install shapely
 python3 -m  pip install cryptography
 ```
 
-# for jetson nano, python 3.6 installation of dlib in jetson nano
+# For Jetson Nano, Python 3.6 installation of dlib
 ```console
 wget http://dlib.net/files/dlib-19.21.tar.bz2
 tar jxvf dlib-19.17.tar.bz2
@@ -40,3 +40,12 @@ cmake --build .
 cd ../
 sudo python3 setup.py install
 ```
+# How to run the code 
+```console
+git clone https://github.com/baset-sarker/face-aware-gui.git
+cd face-aware-gui
+python3 usb_camera.py 
+```
+
+
+
