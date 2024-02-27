@@ -16,7 +16,7 @@ https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 
 5. Power up the Jetson Nano and follow on-screen instructions for initial setup.
 
-# install dependency
+# Install dependency
 ```console
 sudo apt-get install python3-tk
 sudo apt-get install python3-pil
