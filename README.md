@@ -3,9 +3,9 @@ Abstract: This work introduces a novel facial image capture system that utilizes
 
 
 # Getting started with Jetson Nano 
-1. Gather necessary components: Jetson Nano Developer Kit, microSD card (32GB or more), compatible power supply, keyboard, mouse, HDMI-compatible display, and internet connection.
+1. Gather necessary components: Jetson Nano Developer Kit 4GB, microSD card (32GB or more), compatible power supply, keyboard, mouse, HDMI-compatible display, and internet connection.
 
-2. Download the latest version of SD card flash tool BaenaEtcher from below link.
+2. Download the latest version of the microSD card flash tool BaenaEtcher from the below link.
 https://etcher.balena.io/
 
 3. Download the Jetson Nano Developer Kit SD Card Image, and note where it was saved on the computer.
