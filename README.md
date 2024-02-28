@@ -26,7 +26,7 @@ pip3 install imutils
 pip3 install shapely
 python3 -m  pip install cryptography
 ```
-
+# This system was tested on Python 3.6
 # Installation of dlib
 ```console
 wget http://dlib.net/files/dlib-19.21.tar.bz2
